@@ -1,6 +1,6 @@
 # Steve AI
 
-Это тестовый пример работы с OpenAI API, а также работой с локальной большой языковой моделью (по типу LLama).
+This is a test example of working with the OpenAI API, as well as working with a local large language model (like LLama).
 
 ## Getting Started
 
