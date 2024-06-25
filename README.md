@@ -1,16 +1,10 @@
-# steve_ai
+# Steve AI
 
-A new Flutter project.
+Это тестовый пример работы с OpenAI API, а также работой с локальной большой языковой моделью (по типу LLama).
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To work, you need to get an API key on the OpenAI website:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You need to paste it along the path to the file:
+lib/core/secrets/app_secrets.dart
